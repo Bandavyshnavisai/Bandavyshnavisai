@@ -1,4 +1,4 @@
-👋 Hello...!!
+👋 Hello... I'm vyshnavi!!
 🎓 Computer Science Student | 💻 Web & App Developer | 🤖 AI & Data Science Enthusiast
 
 🌟 I’m passionate about building scalable applications, exploring the latest in AI, and solving real-world problems with technology.
